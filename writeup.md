@@ -12,7 +12,6 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[image2]: ./pipeline/output_mask_white.jpg "Mask_white"
 ---
 
 ### Reflection
@@ -21,7 +20,6 @@ The goals / steps of this project are the following:
 
 My pipeline consisted of 9 steps. 
 1) First, I masked the white colour
-![alt text][image2]
 
 2) After that I masked the yellow colour
 
