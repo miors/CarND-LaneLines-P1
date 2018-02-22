@@ -20,7 +20,7 @@ All challenges were attempted including the 'Optional' challenge
 [![Solid yellow left](https://img.youtube.com/vi/tFHpEvnICHQ/0.jpg)](http://www.youtube.com/watch?v=tFHpEvnICHQ)
 
 #### 3. Optional Challenge (click image to play video)
-[![Optional challenge](https://img.youtube.com/vi/tFHpEvnICHQ/0.jpg)](http://www.youtube.com/watch?v=tFHpEvnICHQ)
+[![Optional challenge](https://img.youtube.com/vi/EimPFb3STQE/0.jpg)](http://www.youtube.com/watch?v=EimPFb3STQE)
 
 ### Reflection
 
