@@ -45,10 +45,10 @@ My pipeline consisted of 9 steps.
   
   * Iterating each line
   * Calculating its slope
-  * Finding the center x,y position of the line
+  * Finding the center x, y position of the line
   * If the calculated slope fell within the specific boundary values, calculated values of both slope and position were added into separate lists
   * Then I calculated average slope and average center position
-  * Using the average slope and center positions and knowing the top and bottom y positions that I wanted, I calculated the top and bottom x positions using y-y1=m(x-x1) formula
+  * Using the average slope and center positions and knowing the top and bottom y positions that I wanted, I calculated the top and bottom x positions using y-y1 = m(x-x1) formula
   * Subsequently, I called cv2.line method passing the original image, coordinates of both points, color and thickness of the line to be drawn
 <img src="pipeline/output_lines.jpg" alt="Hough Lines" width="512">
 
@@ -58,7 +58,7 @@ My pipeline consisted of 9 steps.
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when there is no lines on the road as the algorithm heavily depends on the ability to detect presence of line 
+One potential shortcoming would be what would happen when there is no line on the road as the algorithm heavily depends on the ability to detect presence of line 
 
 Another shortcoming could be shadows, light and darkness could potentially affect the algorithm as it heavily relies on presence/ absence of colours
 
@@ -67,4 +67,4 @@ Another shortcoming could be shadows, light and darkness could potentially affec
 
 A possible improvement would be to instead of using RGB channel, we could use HSV channel and target saturation or value (brightness) channels instead
 
-Another potential improvement could be to reduce the range of values the calculated slopes could have as this would reduce the jerkiness of the right and left lanes.
+Another potential improvement could be to reduce the range of values the calculated slopes could have as this would reduce the jerkiness of the drawn red lines on the right and left lanes.
