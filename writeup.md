@@ -12,6 +12,16 @@ The goals / steps of this project are the following:
 ### Note
 All challenges were attempted including the 'Optional' challenge
 
+### Results
+#### 1. Solid white right (click image to play video)
+[![Solid white right](https://img.youtube.com/vi/2RphsiUsk5A/0.jpg)](http://www.youtube.com/watch?v=2RphsiUsk5A)
+
+#### 2. Solid yellow left (click image to play video)
+[![Solid yellow left](https://img.youtube.com/vi/tFHpEvnICHQ/0.jpg)](http://www.youtube.com/watch?v=tFHpEvnICHQ)
+
+#### 3. Optional Challenge (click image to play video)
+[![Optional challenge](https://img.youtube.com/vi/tFHpEvnICHQ/0.jpg)](http://www.youtube.com/watch?v=tFHpEvnICHQ)
+
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
