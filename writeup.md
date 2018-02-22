@@ -12,18 +12,16 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-
+[image2]: .pipeline/output_mask_white.jpg "White mask"
 ---
 
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 7 steps. 
+My pipeline consisted of 9 steps. 
 1) First, I masked the white colour
-[//]: # (Image References)
-
-[image1]: .pipeline/output_mask_white.jpg "White mask"
+![alt text][image2]
 
 2) After that I masked the yellow colour
 
